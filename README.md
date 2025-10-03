@@ -1,4 +1,8 @@
 # SchoolApp
+<img width="1897" height="836" alt="image" src="https://github.com/user-attachments/assets/e94b2225-a6da-4279-8f3c-2e509263d3a2" />
+<img width="1467" height="690" alt="image" src="https://github.com/user-attachments/assets/26a89a1d-5dbb-4815-87bc-89fa03f5295c" />
+<img width="1889" height="857" alt="image" src="https://github.com/user-attachments/assets/f9bfbc86-9dac-49d6-8da2-3dbbf954c827" />
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
 
